@@ -1,0 +1,63 @@
+\documentclass{article}
+\usepackage[top=2.5in, bottom=1in, left=1.5in, right=1in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{references.bib}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+
+
+% listings setup to match eclipse
+\usepackage{listings}
+\usepackage{lstcustom}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+ 
+% beramono or luximono give very nice ttfamily fonts
+\usepackage[scaled=0.8]{beramono}
+% end listings eclipse setup
+
+\usepackage[hypertexnames=false,hidelinks]{hyperref}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+
+\begin{document}
+
+\renewcommand{\lstfontfamily}{\ttfamily}
+\newgeometry{top=0in, bottom=0in, left=0in, right=0in}
+\thispagestyle{empty}
+\includegraphics{title.pdf}
+\newpage
+\thispagestyle{empty}
+\includegraphics{release.pdf}
+\newpage
+\newgeometry{top=1.25in, bottom=1.25in, left=1.25in, right=1.25in}
+\pagenumbering{roman}
+\section*{Abstract}
+\input{abstract.tex}
+\newpage
+\tableofcontents
+\newpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
+\section{Introduction}
+\input{intro.tex}
+\section{Related Works}
+\input{related.tex}
+\section{Proposed Solution}
+\input{development.tex}
+\section{Conclusion}
+\input{conclusion.tex}
+\section{Future Work}
+\input{future.tex}
+\clearpage
+\printbibliography[heading=bibnumbered]
+\clearpage
+\section{Appendix A}
+\input{code_intro.tex}
+\input{android_code.tex}
+\section{Appendix B}
+\input{tomcat_code.tex}
+\end{document}
