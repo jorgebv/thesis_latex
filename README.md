@@ -5,3 +5,5 @@ I only recently realized that I never uploaded this, so I am uploading my files 
 I compiled this using the miktex latex package, ver. 2.9.4757. I don't guarantee it compiles anywhere else, though I don't see why it wouldn't.
 
 If you just want to read the document and don't care about the latex, a copy can be found here: http://arizona.openrepository.com/arizona/handle/10150/297792
+
+The source code mentioned in the document can be found in https://github.com/jorgebv/thesis_tomcat and https://github.com/jorgebv/thesis_android
