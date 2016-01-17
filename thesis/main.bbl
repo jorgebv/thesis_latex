@@ -1,0 +1,335 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{4451065}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=a1b8e0887e60d10dc4aa1ae642022430}{Ahamed}{A\bibinitperiod}{S.I.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=03843f904d4df0445e1fbcb974b0af08}{Talukder}{T\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=6a5d38c7353ec7502d6463a7dcd4bae5}{Haque}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=a1b8e0887e60d10dc4aa1ae642022430}{Ahamed}{A\bibinitperiod}{S.I.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=03843f904d4df0445e1fbcb974b0af08}{Talukder}{T\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=6a5d38c7353ec7502d6463a7dcd4bae5}{Haque}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{60c79ed091a132a74d7af2c368394ba0}
+      \strng{fullhash}{60c79ed091a132a74d7af2c368394ba0}
+      \field{sortinit}{A}
+      \field{labeltitle}{Privacy Challenges in Context-sensitive Access Control for Pervasive Computing Environment}
+      \field{booktitle}{Mobile and Ubiquitous Systems: Networking Services, 2007. MobiQuitous 2007. Fourth Annual International Conference on}
+      \field{title}{Privacy Challenges in Context-sensitive Access Control for Pervasive Computing Environment}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 6}
+      \verb{doi}
+      \verb 10.1109/MOBIQ.2007.4451065
+      \endverb
+      \keyw{authorisation;health care;ubiquitous computing;context sensitive information;context-sensitive access control;dynamic collaborative environment;information leakage;pervasive computing environment;pervasive devices;pervasive healthcare environment;privacy challenges;privacy violation;Access control;Collaboration;Hospitals;Mathematics;Medical services;Permission;Personal digital assistants;Pervasive computing;Privacy;Statistics;Healthcare;Information leak;Pervasive Computing;Privacy violation;Trust Model}
+    \endentry
+    \entry{apache}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=e9713ae04a02a810d6f33dd956f42794}{Apache}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e9713ae04a02a810d6f33dd956f42794}{Apache}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e9713ae04a02a810d6f33dd956f42794}
+      \strng{fullhash}{e9713ae04a02a810d6f33dd956f42794}
+      \field{sortinit}{A}
+      \field{labeltitle}{Apache HttpComponents - HttpComponents Downloads}
+      \field{month}{04}
+      \field{title}{Apache HttpComponents - HttpComponents Downloads}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://hc.apache.org/downloads.cgi
+      \endverb
+    \endentry
+    \entry{manbouncycastle}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=1bafc203de9e4c7cff96ef79a2437582}{Castle}{C\bibinitperiod}{Bouncy}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1bafc203de9e4c7cff96ef79a2437582}{Castle}{C\bibinitperiod}{Bouncy}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1bafc203de9e4c7cff96ef79a2437582}
+      \strng{fullhash}{1bafc203de9e4c7cff96ef79a2437582}
+      \field{sortinit}{C}
+      \field{labeltitle}{The Legion of the Bouncy Castle}
+      \field{title}{The Legion of the Bouncy Castle}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.bouncycastle.org/
+      \endverb
+    \endentry
+    \entry{4205196}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=375ad2afba0fa561cc5d35c616479a55}{Dong}{D\bibinitperiod}{Changyu}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c3cbf49162a1393fca34a78d3fa09f35}{Dulay}{D\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=375ad2afba0fa561cc5d35c616479a55}{Dong}{D\bibinitperiod}{Changyu}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c3cbf49162a1393fca34a78d3fa09f35}{Dulay}{D\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{640263e99de30d731250fa977117c369}
+      \strng{fullhash}{640263e99de30d731250fa977117c369}
+      \field{sortinit}{D}
+      \field{labeltitle}{Privacy Preserving Trust Negotiation for Pervasive Healthcare}
+      \field{booktitle}{Pervasive Health Conference and Workshops, 2006}
+      \field{title}{Privacy Preserving Trust Negotiation for Pervasive Healthcare}
+      \field{year}{2006}
+      \field{pages}{1\bibrangedash 9}
+      \verb{doi}
+      \verb 10.1109/PCTHEALTH.2006.361626
+      \endverb
+      \keyw{Java;computerised monitoring;health care;mobile computing;patient monitoring;protocols;security of data;ETTG;J2ME platforms;Java;access-control policies;disclosure policies;extended trust target graph protocol;patient monitoring;pervasive healthcare systems;privacy preserving trust negotiation;Access protocols;Biomedical monitoring;Java;Medical services;Mobile handsets;Patient monitoring;Privacy;Remote monitoring;Security;Sensor systems}
+    \endentry
+    \entry{6115545}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=4f5c23e676b1d85a025328d3aba74f6c}{Elkhodr}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=925f8ac3120652b428f303c6e3da7cc6}{Shahrestani}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=2f3111a6c97209939851bde00c2020fc}{Cheung}{C\bibinitperiod}{Hon}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=4f5c23e676b1d85a025328d3aba74f6c}{Elkhodr}{E\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=925f8ac3120652b428f303c6e3da7cc6}{Shahrestani}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=2f3111a6c97209939851bde00c2020fc}{Cheung}{C\bibinitperiod}{Hon}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{536493029aaf15cc034f7f36ecd2ec0a}
+      \strng{fullhash}{536493029aaf15cc034f7f36ecd2ec0a}
+      \field{sortinit}{E}
+      \field{labeltitle}{Enhancing the security of mobile health monitoring systems through trust negotiations}
+      \field{booktitle}{Local Computer Networks (LCN), 2011 IEEE 36th Conference on}
+      \field{issn}{0742-1303}
+      \field{title}{Enhancing the security of mobile health monitoring systems through trust negotiations}
+      \field{year}{2011}
+      \field{pages}{754\bibrangedash 757}
+      \verb{doi}
+      \verb 10.1109/LCN.2011.6115545
+      \endverb
+      \keyw{authorisation;biomedical communication;data privacy;health care;medical information systems;mobile computing;patient monitoring;trusted computing;EHR;elderly care;electronic health record;healthcare provider;identity-based access control;information privacy;mobile device;mobile environment;mobile health monitoring system;personally sensitive information;provider location;quality of care;remote monitoring system;transport layer security;trust negotiation;Medical services;Mobile communication;Mobile handsets;Monitoring;Protocols;Security;Servers;TLS protocol;e-health security;mobile application;remote health monitoring;trust negotiations}
+    \endentry
+    \entry{fongen1}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=9ed6d77ea02cfcaa663546368d115286}{Fongen}{F\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9ed6d77ea02cfcaa663546368d115286}{Fongen}{F\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9ed6d77ea02cfcaa663546368d115286}
+      \strng{fullhash}{9ed6d77ea02cfcaa663546368d115286}
+      \field{sortinit}{F}
+      \field{labeltitle}{Identity Management without Revocation}
+      \field{booktitle}{Emerging Security Information Systems and Technologies (SECURWARE), 2010 Fourth International Conference on}
+      \field{title}{Identity Management without Revocation}
+      \field{year}{2010}
+      \field{pages}{75\bibrangedash 81}
+      \verb{doi}
+      \verb 10.1109/SECURWARE.2010.20
+      \endverb
+      \keyw{cryptographic protocols;data privacy;message authentication;public key cryptography;DOS protection;access control policy;authentication protocol;identity management;messages integrity;privacy protection;public key certificate;revocation mechanism;Access control;Authentication;Mobile communication;Protocols;Public key;Servers;certificate revocation;identity management}
+    \endentry
+    \entry{fongen2011federated}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=a0732ffc6ac03d2eef9d58b7527bf4ef}{Fongen}{F\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a0732ffc6ac03d2eef9d58b7527bf4ef}{Fongen}{F\bibinitperiod}{Anders}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a0732ffc6ac03d2eef9d58b7527bf4ef}
+      \strng{fullhash}{a0732ffc6ac03d2eef9d58b7527bf4ef}
+      \field{sortinit}{F}
+      \field{labeltitle}{Federated identity management for android}
+      \field{booktitle}{SECURWARE 2011, The Fifth International Conference on Emerging Security Information, Systems and Technologies}
+      \field{title}{Federated identity management for android}
+      \field{year}{2011}
+      \field{pages}{77\bibrangedash 82}
+    \endentry
+    \entry{manopenssl}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=ee302fd5fd2a7a5a3c19fc5be21f979c}{OpenSSL}{O\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ee302fd5fd2a7a5a3c19fc5be21f979c}{OpenSSL}{O\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{ee302fd5fd2a7a5a3c19fc5be21f979c}
+      \strng{fullhash}{ee302fd5fd2a7a5a3c19fc5be21f979c}
+      \field{sortinit}{O}
+      \field{labeltitle}{OpenSSL, Cryptography and SSL/TLS Toolkit}
+      \field{month}{01}
+      \field{title}{OpenSSL, Cryptography and SSL/TLS Toolkit}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://www.openssl.org/docs/apps/openssl.html
+      \endverb
+    \endentry
+    \entry{mankeytool}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=30162ed78b6c10f731411f2fc440c24f}{Oracle}{O\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=30162ed78b6c10f731411f2fc440c24f}{Oracle}{O\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{fullhash}{30162ed78b6c10f731411f2fc440c24f}
+      \field{sortinit}{O}
+      \field{labeltitle}{keytool - Key and Certificate Management Tool}
+      \field{title}{keytool - Key and Certificate Management Tool}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://docs.oracle.com/javase/1.5.0/docs/tooldocs/solaris/keytool.html
+      \endverb
+    \endentry
+    \entry{6198123}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=dcfe3918aa60a3c14f422a8d25634b00}{Pfeiffer}{P\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=67cb0350cbd9f8d0c1423b5e5447c6a0}{Unger}{U\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=ffbff6d06518a4444eabfdefee15a652}{Timmermann}{T\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=0e516f0ebac166725ec118555f41cd3b}{Lehmann}{L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=dcfe3918aa60a3c14f422a8d25634b00}{Pfeiffer}{P\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=67cb0350cbd9f8d0c1423b5e5447c6a0}{Unger}{U\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=ffbff6d06518a4444eabfdefee15a652}{Timmermann}{T\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=0e516f0ebac166725ec118555f41cd3b}{Lehmann}{L\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{73cec4b5d331a30c3703680f23e7d8b9}
+      \strng{fullhash}{3384ea74e3704e99db3c9cf4b6fde412}
+      \field{sortinit}{P}
+      \field{labeltitle}{Secure information flow awareness for smart wireless eHealth systems}
+      \field{booktitle}{Systems, Signals and Devices (SSD), 2012 9th International Multi-Conference on}
+      \field{title}{Secure information flow awareness for smart wireless eHealth systems}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 6}
+      \verb{doi}
+      \verb 10.1109/SSD.2012.6198123
+      \endverb
+      \keyw{formal verification;health care;medical information systems;mobile computing;security of data;aggregated information;e-Health applications;formally-based verification method;illegal information flow;indispensable design criterion;information flow awareness security;information flow violation;information security;mobile medical assistant systems;smart m-Health system;smart wireless e-Health system;tool supported verification method;undesired information leaks;Databases;Mathematical model;Medical services;Mobile handsets;Security;Semantics;Unified modeling language}
+    \endentry
+    \entry{manportecle}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=882e1577af5829506ad424d281dbbb87}{scop}{s\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=882e1577af5829506ad424d281dbbb87}{scop}{s\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{882e1577af5829506ad424d281dbbb87}
+      \strng{fullhash}{882e1577af5829506ad424d281dbbb87}
+      \field{sortinit}{s}
+      \field{labeltitle}{Portecle}
+      \field{title}{Portecle}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://portecle.sourceforge.net/
+      \endverb
+    \endentry
+    \entry{sparks2007sip}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7ae18b3626a494e9da47bde26bebec35}{Sparks}{S\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7ae18b3626a494e9da47bde26bebec35}{Sparks}{S\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{7ae18b3626a494e9da47bde26bebec35}
+      \strng{fullhash}{7ae18b3626a494e9da47bde26bebec35}
+      \field{sortinit}{S}
+      \field{labeltitle}{SIP: basics and beyond}
+      \field{journaltitle}{Queue}
+      \field{number}{2}
+      \field{title}{SIP: basics and beyond}
+      \field{volume}{5}
+      \field{year}{2007}
+      \field{pages}{22\bibrangedash 33}
+    \endentry
+    \entry{5972278}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=03da669c1e2b9f18b797608c7817e9d8}{Suguna}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7cd29a91e5f4e7687015f87b3a4c7204}{Subathra}{S\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=03da669c1e2b9f18b797608c7817e9d8}{Suguna}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=7cd29a91e5f4e7687015f87b3a4c7204}{Subathra}{S\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{287fd854390789fd755d3561190bc782}
+      \strng{fullhash}{287fd854390789fd755d3561190bc782}
+      \field{sortinit}{S}
+      \field{labeltitle}{Establishment of stable certificate chains for authentication in mobile ad hoc networks}
+      \field{booktitle}{Recent Trends in Information Technology (ICRTIT), 2011 International Conference on}
+      \field{title}{Establishment of stable certificate chains for authentication in mobile ad hoc networks}
+      \field{year}{2011}
+      \field{pages}{234\bibrangedash 239}
+      \verb{doi}
+      \verb 10.1109/ICRTIT.2011.5972278
+      \endverb
+      \keyw{mobile ad hoc networks;public key cryptography;telecommunication network routing;telecommunication network topology;telecommunication security;MANET;NS2;authentication mechanism;centralized administration;end-to-end delay;key management problems;link failure;mobile ad hoc networks;network simulator tool;packet delivery ratio;public key infrastructure;routing overhead;stable certificate chains;unstable topology;wireless infrastructure-less networks;Ad hoc networks;Authentication;Delay;Mobile computing;Public key;Routing;Ad hoc Network;Authentication;Certificate Chain;Link Expiry Time;Security;Stable links}
+    \endentry
+    \entry{todd2003javaserver}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=3116839bfe90963489486d53b2b36b98}{Todd}{T\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=d5db2948daf6ad313ed6e0e2808aca32}{Szolkowski}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3116839bfe90963489486d53b2b36b98}{Todd}{T\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=d5db2948daf6ad313ed6e0e2808aca32}{Szolkowski}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Sams Pub.}%
+      }
+      \strng{namehash}{f440aebc74c407db0c75425702d2f0d3}
+      \strng{fullhash}{f440aebc74c407db0c75425702d2f0d3}
+      \field{sortinit}{T}
+      \field{labeltitle}{JavaServer pages developer's handbook}
+      \field{isbn}{9780672324383}
+      \field{series}{Developer's library}
+      \field{title}{JavaServer pages developer's handbook}
+      \field{year}{2003}
+      \verb{url}
+      \verb http://books.google.com/books?id=ru9SAAAAMAAJ
+      \endverb
+    \endentry
+    \entry{6040529}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=7fef5d06b95ddaac6f88b2aa7f1054de}{Weerasinghe}{W\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=d5c0fc65bd40f7a6d5804b2229096b38}{Muttukrishnan}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7fef5d06b95ddaac6f88b2aa7f1054de}{Weerasinghe}{W\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=d5c0fc65bd40f7a6d5804b2229096b38}{Muttukrishnan}{M\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e397cf03b8ae4b93ac84a929d3085553}
+      \strng{fullhash}{e397cf03b8ae4b93ac84a929d3085553}
+      \field{sortinit}{W}
+      \field{labeltitle}{Secure Trust Delegation for Sharing Patient Medical Records in a Mobile Environment}
+      \field{booktitle}{Wireless Communications, Networking and Mobile Computing (WiCOM), 2011 7th International Conference on}
+      \field{issn}{2161-9646}
+      \field{title}{Secure Trust Delegation for Sharing Patient Medical Records in a Mobile Environment}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 4}
+      \verb{doi}
+      \verb 10.1109/wicom.2011.6040529
+      \endverb
+      \keyw{health care;medical information systems;mobile handsets;protocols;security of data;emergency medical units;hand-held mobile devices;mobile emergency medical personal;mobile environment;protocol;secure trust delegation;sharing patient medical records;unconscious patients;Hospitals;Medical diagnostic imaging;Mobile communication;Mobile handsets;Security;Servers}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
